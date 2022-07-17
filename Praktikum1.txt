@@ -1,1 +1,4 @@
 Alauddin Maulana Hirzan : M031510038 : Semarang
+Mata Kuliah : Open Source System
+Catatan : Praktikum dengan menggunakan GIT
+
